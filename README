@@ -1,0 +1,22 @@
+# Judul Proyek: Sistem Informasi Pemesanan Tiket Pesawat
+
+Proyek ini adalah implementasi sistem pemesanan tiket pesawat sederhana berbasis PHP.
+
+## Fitur Utama
+
+* Login dan Register Admin/User
+* Dashboard Admin untuk mengelola data
+* Fungsi Pemesanan Tiket (Pesan)
+* Riwayat Pemesanan
+
+## Teknologi yang Digunakan
+
+* PHP
+* MySQL (untuk Database)
+* [Sebutkan framework atau library lain jika ada]
+
+## Cara Instalasi Lokal
+
+1. Clone repositori ini: `git clone https://www.andarepository.com/`
+2. Import file database yang tersedia di folder `database/` (jika ada).
+3. Tempatkan folder ini di direktori `www/` atau `htdocs/` Laragon/XAMPP Anda.
